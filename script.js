@@ -1,4 +1,4 @@
-/* This is where you'll complete the Milestone. Open your README.md file and click 'Open Preview' for detailed instuctions! */
+/* This is where you'll complete the Milestone.*/
 
 let dramaShows = [
   "Ginny & Georgia",
